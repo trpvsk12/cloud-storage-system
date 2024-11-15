@@ -1,21 +1,6 @@
-![Cloud Storage System](https://raw.githubusercontent.com/PtPrashantTripathi/Cloud-Storage-System/master/Server%20Source%20Code/assets/img/Cloudbox.png)
+![Cloud Storage System](https://raw.githubusercontent.com/Cloud-Storage-System/master/Server%20Source%20Code/assets/img/Cloudbox.png)
 
 # Cloud Storage System
-![Devloper](https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg)
-![GitHub release](https://img.shields.io/github/release/PtPrashantTripathi/Cloud-Storage-System.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/PtPrashantTripathi/Cloud-Storage-System.svg)
-![License](https://img.shields.io/github/license/PtPrashantTripathi/Cloud-Storage-System.svg)
-![Total-Downlode](https://img.shields.io/github/downloads/PtPrashantTripathi/Cloud-Storage-System/total.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/PtPrashantTripathi/Cloud-Storage-System.svg?color=0&logo=git&logoColor=orange)
-![GitHub last commit](https://img.shields.io/github/last-commit/PtPrashantTripathi/Cloud-Storage-System.svg)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/PtPrashantTripathi/Cloud-Storage-System/V1.1.svg)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PtPrashantTripathi/Cloud-Storage-System.svg)
-![Website Status](https://img.shields.io/website/http/Prashanttripathi.ga.svg?down_message=Down&up_message=Online)
-![Repo-Size](https://img.shields.io/github/repo-size/PtPrashantTripathi/Cloud-Storage-System.svg)
-![Code-Size](https://img.shields.io/github/languages/code-size/PtPrashantTripathi/Cloud-Storage-System.svg)
-![Top-languages](https://img.shields.io/github/languages/top/PtPrashantTripathi/Cloud-Storage-System.svg?color=Blue&logo=java)
-![GitHub followers](https://img.shields.io/github/followers/PtPrashantTripathi.svg?label=%20%40PtPrashantTripathi&logo=github)
-![Twitter](https://img.shields.io/twitter/follow/PtPrashant09.svg?label=%20%40PtPrashant09&logo=twitter)
 
 ## About
 
@@ -47,44 +32,3 @@
 - File versioning 
    - Files versioning is maintained for every single file stored in the cloud for a period of 30 days. Users could track the changes performed on the file and also can find the date and time at which the change was performed.
 
-## Developer Team 
-
-|Pt. Prashant Tripathi|Deepshika Patel|Kaushal Sen|Prakriti Kapoor|
-|---|---|---|---|
-|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|![Deepshikha Patel](https://i.stack.imgur.com/wniQo.jpg)|![Kaushal Sen](https://avatars.githubusercontent.com/u/51149664?s=200&v=4)|![Prakriti Kapoor](https://i.stack.imgur.com/r8opj.jpg)|
-|*Devloper* [@PtPrashantTripathi](http://ptprashanttripathi.github.io)|*UI/UX Designer* [@DeepshikaPatel](https://github.com/deepshikhapatel)|*Team Leader* [@KaushalSen](https://github.com/kaushal-sen)|*Mentor* [@PrakritiKapoor](https://www.linkedin.com/in/prakriti-kapoor-b9a942a1/)|
-
-## Release History
-
-* Release 1.1
-    * CHANGE: Update README.md 
-    * FIX: Resolve bug  
-* Release 1.0
-    * The first proper release
-    * CHANGE: Rename `Cloud-Storage-System` 
-* Release 0.1
-    * Research Completed
-    * Concept Generated
-
-## Support 
-Reach out to me at one of the following places!
-
-DEV : [@ptprashanttripathi](https://dev.to/ptprashanttripathi/)<br>
-Facebook : [@PtPrashantTriapthi](https://www.facebook.com/PtPrashantTripathi) <br>
-Twitter : [@PtPrashant09](https://twitter.com/intent/follow?screen_name=ptprashant09) <br>
-LinkedIn :[ptprashanttripathi](https://www.linkedin.com/in/ptprashanttripathi/)<br>
-GitHub :  [@PtPrashantTriapthi](https://github.com/PtPrashantTripathi)<br>
-Google : [+PtPrashantTriapthi](https://plus.google.com/u/0/117932919291115315316)<br>
-Quora : [PtPrashantTriapthi](https://www.quora.com/profile/Pt-Prashant-Tripathi)<br>
-                                
-## License
-
-- This project is licensed under the **[MIT license](http://opensource.org/licenses/mit-license.php)** - see the [LICENSE](LICENSE) file for details
-- Copyright 2019  [@PtPrashanttripathi](http://github.com/PtPrashantTripathi)
-
-
-## Importent Link 
-
-- To know about it https://www.ptprashanttripathi.github.io/portfolio/Cloud-Storage-System/
-- To view this project source code https://github.com/PtPrashantTripathi/Cloud-Storage-System
-- To Downlode the app https://github.com/PtPrashantTripathi/Cloud-Storage-System/raw/master/CloudBox_1.0.apk
